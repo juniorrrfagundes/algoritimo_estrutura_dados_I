@@ -1,4 +1,4 @@
-package aula01;
+package estrutura01;
 
 public class vetor {
     private Dados[] dados = new Dados[100];

@@ -1,4 +1,4 @@
-package exer2;
+package estrutura02;
 
 import java.util.Scanner;
 

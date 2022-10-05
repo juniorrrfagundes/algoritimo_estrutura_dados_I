@@ -13,7 +13,7 @@ package prova;
 import java.util.List;
 import java.util.Scanner;
 
-import aula01.vetor;
+import estrutura01.vetor;
 
 // 0-9 – Crianças – grupo 1
 // 10 -19 – Adolescentes – grupo - 2

@@ -1,4 +1,4 @@
-package exer2;
+package estrutura02;
 
 public class vetor {
     private Dados[] dados = new Dados[100];
